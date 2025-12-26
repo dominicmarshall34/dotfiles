@@ -58,5 +58,6 @@ On first launch, lazy.nvim will automatically install itself and all plugins.
 | `Super + Shift + R` | Reload config |
 | `Super + L` | Lock screen |
 | `Super + V` | Toggle floating |
+| `Super + D` | Toggle laptop monitor |
 | `Super + 1-0` | Switch workspace |
 | `Super + Shift + 1-0` | Move window to workspace |
